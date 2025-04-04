@@ -1,4 +1,9 @@
+# Archivos de sistema operativos
+.DS_Store
+Thumbs.db
+
+# Archivos de logs
 *.log
-__pycache__/
+
+# Archivos temporales
 *.tmp
-node_modules/
